@@ -23,8 +23,10 @@
     "axios": "^0.19.0",
     "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.2.7",
     "mongoose": "^5.6.3",
+    "ramda": "^0.26.1",
     "validator": "^11.1.0"
   },
   "devDependencies": {
